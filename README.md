@@ -31,6 +31,6 @@ On Linux systems, firewall (UFW) and SSH config results may differ.
 
 Below is a sample run of the script on a local system:
 
-![Linux Security QuickCheck Output](output-example.png)
+![Linux Security QuickCheck Output](output_screenshot.png)
 
 ⚠️ This tool is read-only and intended for educational and defensive security use only.
