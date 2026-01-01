@@ -21,3 +21,5 @@ I built this as a simple portfolio project to demonstrate:
 ## Run
 ```bash
 python3 quickcheck.py
+
+⚠️ This tool is read-only and intended for educational and defensive security use only.
