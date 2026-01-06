@@ -1,0 +1,26 @@
+Linux Security QuickCheck (Java)
+Generated: 2026-01-06T07:05:35.447341
+
+== System Info ==
+OS: Mac OS X 12.7.4
+Arch: x86_64
+User: koltenix
+
+== Command: uname -a ==
+Darwin Levis-MBP.home 21.6.0 Darwin Kernel Version 21.6.0: Mon Feb 19 20:24:34 PST 2024; root:xnu-8020.240.18.707.4~1/RELEASE_X86_64 x86_64
+
+== Command: whoami ==
+koltenix
+
+== Command: hostname ==
+Levis-MBP.home
+
+== Command: ip a ==
+(not found / failed to run: Cannot run program "ip": Exec failed, error: 2 (No such file or directory) )
+
+== Command: ip r ==
+(not found / failed to run: Cannot run program "ip": Exec failed, error: 2 (No such file or directory) )
+
+== Command: ss -tulpn ==
+(not found / failed to run: Cannot run program "ss": Exec failed, error: 2 (No such file or directory) )
+
