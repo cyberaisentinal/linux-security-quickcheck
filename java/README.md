@@ -1,9 +1,9 @@
 # Java QuickCheck
 
-This is a Java version of the Security QuickCheck concept.
+This is a Java version of the Linux Security QuickCheck project.
 
 ## Run
-From repo root:
+From the repo root:
 
 ```bash
 cd java/src
